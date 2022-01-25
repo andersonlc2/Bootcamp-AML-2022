@@ -52,5 +52,5 @@ CPGF?
 P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
 Resposta: Através de chamadas a Api do CPGF passandos os parametros como o mes de extrato, datas de 
 transação, tipo do cartão, pegamos as informações pertinentes e armazenamos em um banco 
-de dados Mysql, para que posteriormente podemos fazer consultas nesse banco para o uso 
-nas divesas questões apresentadas.
+de dados, para que posteriormente podemos fazer consultas nesse banco para o uso 
+nas diversas questões apresentadas.
