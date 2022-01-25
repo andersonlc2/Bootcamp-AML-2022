@@ -44,7 +44,7 @@ Resposta: 3.108.731,15
 
 M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o
 valor (somado)?
-Resposta: Orgao: Presicencia da Republica, Valor: 1.699.751,04
+Resposta: Orgao: Presidencia da Republica, Valor: 1.699.751,04
 
 N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma
 dos saques realizada por ele? Qual o nome do Órgão desse portador?
