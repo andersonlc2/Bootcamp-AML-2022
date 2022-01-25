@@ -37,17 +37,23 @@ Resposta: Os valores aparecem em todas as movimentações, mas as datas em movim
 sigilosas não podemos identificar.
 
 K (código) – Qual a soma total das movimentações utilizando o CPGF?
+Resposta: 5.619.007,95
 
 L (código) – Qual a soma das movimentações sigilosas ?
+Resposta: 3.108.731,15
 
 M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o
 valor (somado)?
+Resposta: Orgao: Presicencia da Republica, Valor: 1.699.751,04
 
 N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma
 dos saques realizada por ele? Qual o nome do Órgão desse portador?
+Resposta: Portador: RAFAEL FERREIRA COSTA, Soma: 24.520,00, Orgao: Instituto Chico Mendes
+de Conservacao da Biodiversidade
 
 O (código) – Qual o nome do favorecido que mais recebeu compras realizadas utilizando o
 CPGF?
+Resposta: MERCADOPAGO.COM REPRESENTACOES LTDA
 
 P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
 Resposta: Através de chamadas a Api do CPGF passandos os parametros como o mes de extrato, datas de 
